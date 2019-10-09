@@ -3,4 +3,4 @@
 
 事例效果如下：
 
-![image](https://github.com/RadishLin/XLCompressPng/blob/master/example.png)
+![image](https://github.com/RadishLin/XLCompressPng/blob/master/example1.png)
